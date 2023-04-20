@@ -279,7 +279,7 @@
 						}
 ,
 						"classnamespace" : "jit.gen",
-						"rect" : [ 0.0, 0.0, 600.0, 450.0 ],
+						"rect" : [ 59.0, 119.0, 600.0, 450.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -379,8 +379,8 @@
  ]
 					}
 ,
-					"patching_rect" : [ 50.0, 457.229921877384186, 239.380961656570435, 22.0 ],
-					"text" : "jit.gl.pix @title FlaxShakeShader"
+					"patching_rect" : [ 50.0, 457.229921877384186, 185.0, 22.0 ],
+					"text" : "jit.gl.pix @title Flax.ShakeShader"
 				}
 
 			}
@@ -3162,8 +3162,8 @@
  ]
 					}
 ,
-					"patching_rect" : [ 50.0, 431.325159728527069, 239.0, 22.0 ],
-					"text" : "jit.gl.pix @title FlaxGrainShader"
+					"patching_rect" : [ 50.0, 431.325159728527069, 180.0, 22.0 ],
+					"text" : "jit.gl.pix @title Flax.GrainShader"
 				}
 
 			}
@@ -3304,7 +3304,7 @@
 						}
 ,
 						"classnamespace" : "jit.gen",
-						"rect" : [ 34.0, 99.0, 1444.0, 849.0 ],
+						"rect" : [ 34.0, 100.0, 1444.0, 849.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -3584,8 +3584,8 @@
  ]
 					}
 ,
-					"patching_rect" : [ 50.0, 404.610873281955719, 239.0, 22.0 ],
-					"text" : "jit.gl.pix @title FlaxVignetteShader"
+					"patching_rect" : [ 50.0, 404.610873281955719, 195.0, 22.0 ],
+					"text" : "jit.gl.pix @title Flax.VignetteShader"
 				}
 
 			}
@@ -3787,8 +3787,8 @@
  ]
 					}
 ,
-					"patching_rect" : [ 50.0, 377.801348984241486, 239.0, 22.0 ],
-					"text" : "jit.gl.pix @title FlaxFeedbackShader"
+					"patching_rect" : [ 50.0, 377.801348984241486, 203.0, 22.0 ],
+					"text" : "jit.gl.pix @title Flax.FeedbackShader"
 				}
 
 			}

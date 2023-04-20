@@ -1,0 +1,18 @@
+<jitterpass>
+	<pass name="PostProcessingShaders">
+		<subpass gen="Flax.FeedbackShader">
+			<input source="COLOR"/>
+			<input source="HISTORY"/>
+		</subpass>
+		<subpass gen="Flax.VignetteShader">
+			<input source="PREVIOUS"/>
+		</subpass>
+		<subpass gen="Flax.ShakeShader">
+			<input source="PREVIOUS"/>
+		</subpass>
+		<subpass gen="Flax.GrainShader" output="COLOR">
+			<input source="PREVIOUS"/>
+			<input source="HISTORY"/>
+		</subpass>
+	</pass>
+</jitterpass>
